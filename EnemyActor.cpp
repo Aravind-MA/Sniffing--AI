@@ -70,7 +70,7 @@ void AEnemyActor::BeginPlay()
 	AttackSphere->OnComponentEndOverlap.AddDynamic(this, &AEnemyActor::AttackSphereOverlapEnd);
 
 	//SocketName
-
+ 
 	HeadSocket = GetMesh()->GetSocketBoneName(TEXT("HeadSocket"));
 
 	LeftSocket = GetMesh()->GetSocketBoneName(TEXT("LeftSocket"));
