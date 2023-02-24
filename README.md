@@ -6,7 +6,7 @@ Documentations:
               Patrol Points (to guard)
               
               LineOfSight(to attack the player)
-              [LineOfSight]:https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/GameFramework/AController/LineOfSightTo/
+              [Link](https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/GameFramework/AController/LineOfSightTo/)
               
               SphereComponent(to detect)
              [https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Components/USphereComponent/]
