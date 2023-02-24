@@ -18,6 +18,6 @@ void UEnemytAnimInstance::UpdataAnimationProperties(float DeltaTime)
 		Velocity.Z = 0.f;
 		Speed = Velocity.Size();//size is know as magnidued
 	}
-	
+
 	
 }
