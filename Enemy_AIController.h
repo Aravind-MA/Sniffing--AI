@@ -45,6 +45,5 @@ private:
 
 
 public:
-
 	FORCEINLINE UBlackboardComponent* GetBlackboardComponent() const { return BlackboardComponent; }
 };
