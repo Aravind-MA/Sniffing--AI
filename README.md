@@ -6,13 +6,13 @@ Documentations:
               Patrol Points (to guard)
               
               LineOfSight(to attack the player)
-              https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/GameFramework/AController/LineOfSightTo/
+              [https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/GameFramework/AController/LineOfSightTo/]
               
               SphereComponent(to detect)
-              https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Components/USphereComponent/
+             [https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Components/USphereComponent/]
               
               RandomReachablePointInRadius(helps to Divert from the patrol position in order to search)
-              https://docs.unrealengine.com/5.0/en-US/API/Runtime/NavigationSystem/UNavigationSystemV1/GetRandomReachablePointInRadius/1/
+              [https://docs.unrealengine.com/5.0/en-US/API/Runtime/NavigationSystem/UNavigationSystemV1/GetRandomReachablePointInRadius/1/]
               
               PlaySoundAtLocation(to get the immersive feel)
-              https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/PlaySoundAtLocation/2/
+              [https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Kismet/UGameplayStatics/PlaySoundAtLocation/2/]
