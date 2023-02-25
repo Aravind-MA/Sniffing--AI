@@ -1,6 +1,6 @@
 # Sniffing--AI
 The fantasy enemy guards the treasure against the player.
-suppose the player hides beside the zone of the enemy. In that case, the enemy can able to find the almost exact location of the player by Sniffing power.
+Suppose the player hides beside the zone of the enemy. In that case, the enemy can find the almost exact location of the player by its Sniffing power.
 
 
 "Documentations used":
